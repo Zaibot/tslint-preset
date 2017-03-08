@@ -10,7 +10,7 @@
         "no-magic-numbers": true,
         "no-misused-new": true,
         "no-unbound-method": true,
-        "no-unused-variable": [true, "react"],
+        "no-unused-variable": [true, "react", {"ignore-pattern": "^React$"}],
         "no-unsafe-any": true,
         "no-string-throw": true,
         "no-var-requires": false,
