@@ -1,0 +1,18 @@
+{
+  "access": "public",
+  "name": "@zaibot/tslint-preset",
+  "version": "0.0.0",
+  "description": "Personal preset for tslint",
+  "main": "default.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zaibot/tslint-preset.git"
+  },
+  "keywords": [],
+  "author": "T. de Groen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zaibot/tslint-preset/issues"
+  },
+  "homepage": "https://github.com/Zaibot/tslint-preset#readme"
+}

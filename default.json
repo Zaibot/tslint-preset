@@ -1,0 +1,24 @@
+{
+    "extends": "tslint:recommended",
+    "rules": {
+        "await-promise": true,
+        "max-line-length": [true, 180],
+        "no-floating-promises": true,
+        "no-for-in-array": true,
+        "no-inferred-empty-object-type": true,
+        "no-invalid-this": true,
+        "no-magic-numbers": true,
+        "no-misused-new": true,
+        "no-unbound-method": true,
+        "no-unused-variable": [true, "react"],
+        "no-unsafe-any": true,
+        "no-string-throw": true,
+        "no-var-requires": false,
+        "promise-function-async": true,
+        "quotemark": [true, "single", "jsx-double"],
+        "restrict-plus-operands": true,
+        "strict-boolean-expressions": true,
+        "unified-signatures": true,
+        "variable-name": [true, "ban-keywords", "check-format", "allow-leading-underscore", "allow-pascal-case"]
+    }
+}
