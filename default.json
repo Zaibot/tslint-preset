@@ -1,5 +1,5 @@
 {
-    "extends": "tslint:recommended",
+    "extends": "tslint:latest",
     "rules": {
         "await-promise": true,
         "import-blacklist": true,
@@ -9,8 +9,6 @@
         "no-inferred-empty-object-type": true,
         "no-invalid-this": true,
         "no-magic-numbers": true,
-        "no-misused-new": true,
-        "no-string-throw": true,
         "no-unbound-method": true,
         "no-unsafe-any": true,
         "no-var-requires": false,
