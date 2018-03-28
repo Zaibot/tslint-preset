@@ -13,7 +13,6 @@
         "no-string-throw": true,
         "no-unbound-method": true,
         "no-unsafe-any": true,
-        "no-unused-variable": [true, "react", {"ignore-pattern": "^React$"}],
         "no-var-requires": false,
         "object-literal-sort-keys": false,
         "promise-function-async": true,
