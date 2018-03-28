@@ -9,6 +9,7 @@
         "no-inferred-empty-object-type": true,
         "no-invalid-this": true,
         "no-magic-numbers": true,
+        "no-submodule-imports": true,
         "no-unbound-method": true,
         "no-unsafe-any": true,
         "no-var-requires": false,
